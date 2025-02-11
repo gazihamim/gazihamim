@@ -25,7 +25,6 @@ Hello! I'm a beginner frontend developer with a passion for creating clean and r
 ### 📦 Tools
 - VS Code
 - Chrome DevTools
-- Netlify (for hosting projects)
 
 ---
 
